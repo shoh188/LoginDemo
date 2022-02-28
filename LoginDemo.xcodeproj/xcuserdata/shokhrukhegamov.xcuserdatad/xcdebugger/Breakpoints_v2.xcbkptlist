@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "B610053B-B396-4753-A2A1-9B064D44C565"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3FC57E0B-2159-4F05-8519-78CF49A15B6A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LoginDemo/signUP.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "SignUpView"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "3FC57E0B-2159-4F05-8519-78CF49A15B6A - 821d14d292b84b51"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LoginDemo.SignUpView.txfEmail.getter : Swift.Optional&lt;__C.UITextField&gt;"
+                  moduleName = "LoginDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shokhrukhegamov/Desktop/LoginDemo/LoginDemo/signUP.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "85">
+               </Location>
+               <Location
+                  uuid = "3FC57E0B-2159-4F05-8519-78CF49A15B6A - 3705fecb58eea045"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LoginDemo.SignUpView.txfEmail.setter : Swift.Optional&lt;__C.UITextField&gt;"
+                  moduleName = "LoginDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shokhrukhegamov/Desktop/LoginDemo/LoginDemo/signUP.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "136">
+               </Location>
+               <Location
+                  uuid = "3FC57E0B-2159-4F05-8519-78CF49A15B6A - 6f7f1fe2266e234c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LoginDemo.SignUpView.txfEmail.modify : Swift.Optional&lt;__C.UITextField&gt;"
+                  moduleName = "LoginDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shokhrukhegamov/Desktop/LoginDemo/LoginDemo/signUP.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "52">
+               </Location>
+               <Location
+                  uuid = "3FC57E0B-2159-4F05-8519-78CF49A15B6A - accc3fe1e1614528"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LoginDemo.SignUpView.txfEmail.modify : Swift.Optional&lt;__C.UITextField&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "LoginDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shokhrukhegamov/Desktop/LoginDemo/LoginDemo/signUP.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "26">
+               </Location>
+               <Location
+                  uuid = "3FC57E0B-2159-4F05-8519-78CF49A15B6A - a85f670b823f4856"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LoginDemo.SignUpView.init(frame: __C.CGRect) -&gt; LoginDemo.SignUpView"
+                  moduleName = "LoginDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shokhrukhegamov/Desktop/LoginDemo/LoginDemo/signUP.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "523">
+               </Location>
+               <Location
+                  uuid = "3FC57E0B-2159-4F05-8519-78CF49A15B6A - 12d3bfd77260e052"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LoginDemo.SignUpView.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;LoginDemo.SignUpView&gt;"
+                  moduleName = "LoginDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shokhrukhegamov/Desktop/LoginDemo/LoginDemo/signUP.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "383">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
